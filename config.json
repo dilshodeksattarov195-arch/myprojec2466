@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperretch",
+        "uuid": 15045066,
+        "checksum": "eq372"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
